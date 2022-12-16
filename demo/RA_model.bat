@@ -1,0 +1,1 @@
+EncoderApp.exe -c Tango2.cfg -c encoder_randomaccess_vtm.cfg>result_22.txt
